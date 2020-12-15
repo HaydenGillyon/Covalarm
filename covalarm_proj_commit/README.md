@@ -9,7 +9,7 @@ The data that Covalarm can access and present to you is in 3 forms:
 
 The Covid-19 data and the weather can also be localised to your region, as will be explained in the Configuration section.
 
-This package is maintained in the following github repository: 
+This package is maintained in the following github repository: https://github.com/Zagox11/Covalarm
 
 ## Prerequisites
 This program was built and works on Python 3.9.0.
