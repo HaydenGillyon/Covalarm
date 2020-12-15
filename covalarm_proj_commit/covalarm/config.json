@@ -1,0 +1,24 @@
+{
+    "API_keys" : {
+        "weather" : "",
+        "news" : ""
+    },
+    "base_URLs" : {
+        "weather" : "http://api.openweathermap.org/data/2.5/weather?",
+        "news" : "https://newsapi.org/v2/top-headlines?"
+    },
+    "location" : {
+        "weather_city" : "Exeter",
+        "news_country" : "gb",
+        "covid19_regtype" : "region",
+        "covid19_loc" : "South West"
+    },
+    "case_boundaries" : {
+        "lower" : 700,
+        "higher" : 1300
+    },
+    "trusted_source" : "BBC News",
+    "news_limit" : 6,
+    "notif_check_interval" : 30,
+    "system_log" : "sys.log"
+}
